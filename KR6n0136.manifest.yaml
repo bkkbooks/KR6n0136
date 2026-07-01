@@ -1,0 +1,123 @@
+canonical_identifier: bkk:krp/KR6n0136/v1
+canonical_location: https://kanripo.org/bkk/KR6n0136/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 八識規矩纂釋
+  identifiers:
+    alt_id:
+    - X55n0894
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0894.xml
+    old_id: X55n0894
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0136_000.yaml, hash: 'sha256:7014598305d7d201d20de2f6a057a244c616018dd4a4a9057cb751d1dd5d776d'}
+  - {seq: 1, filename: KR6n0136_001.yaml, hash: 'sha256:fc165b1a79e1d523ccb0682830f558a945ba73c23c662b070ded48f8dc375f00'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0136_000.markers.yaml, hash: 'sha256:f21e0821215a85bc1bb265d1dc2229c6dff23b15ab8e95a59d9c69e574ca40fc'}
+  - {seq: 1, role: markers, filename: assets/KR6n0136_001.markers.yaml, hash: 'sha256:5728c9b5e8e9c1a5992ada303a0065e2ba58b210744afa95fc8ffaffec20a419'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6n0136_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 894-A
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0136_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 12483
+  label: 八識規矩頌
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0136_X_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0136_X_001-mulu-2
+    span:
+    - body
+    - 1397
+    - 1397
+  label: 五識頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0136_X_001-mulu-3
+    span:
+    - body
+    - 5100
+    - 5100
+  label: 六識頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0136_X_001-mulu-4
+    span:
+    - body
+    - 6899
+    - 6899
+  label: 七識頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0136_X_001-mulu-5
+    span:
+    - body
+    - 9154
+    - 9154
+  label: 八識頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0136_X_001-mulu-6
+    span:
+    - body
+    - 11676
+    - 11676
+  label: No. 894-B 題(二)百法明門八識規矩纂釋後
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0136_X_001-mulu-7
+    span:
+    - body
+    - 12111
+    - 12111
+  label: No. 894-C 百法規矩纂釋後敘
+  type: mulu
+  level: 1
+hash: sha256:974b62802731d5115ad61a30e1e7122b34f6765512d93ae89c280f47ee832b11
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
