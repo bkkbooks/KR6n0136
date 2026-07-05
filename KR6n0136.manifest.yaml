@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6n0136_000.yaml, hash: 'sha256:7014598305d7d201d20de2f6a057a244c616018dd4a4a9057cb751d1dd5d776d'}
-  - {seq: 1, filename: KR6n0136_001.yaml, hash: 'sha256:fc165b1a79e1d523ccb0682830f558a945ba73c23c662b070ded48f8dc375f00'}
+  - {seq: 0, filename: KR6n0136_000.yaml, hash: 'sha256:ddcec4cc50457616d1e6f742183db370137bffae54d5f6557fe2099dc77be8bb'}
+  - {seq: 1, filename: KR6n0136_001.yaml, hash: 'sha256:419a546ecba04c0a074a4fdb1ac1971aab9ab2fae3cd3f772ad862dac26bdaa8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6n0136_000.markers.yaml, hash: 'sha256:f21e0821215a85bc1bb265d1dc2229c6dff23b15ab8e95a59d9c69e574ca40fc'}
-  - {seq: 1, role: markers, filename: assets/KR6n0136_001.markers.yaml, hash: 'sha256:5728c9b5e8e9c1a5992ada303a0065e2ba58b210744afa95fc8ffaffec20a419'}
+  - {seq: 0, role: markers, filename: assets/KR6n0136_000.markers.yaml, hash: 'sha256:8ff9f7e2adea5491a45a617a181f2122d68e3a89ab447c6c4ff9b67dd5c9c7b0'}
+  - {seq: 1, role: markers, filename: assets/KR6n0136_001.markers.yaml, hash: 'sha256:92039851d517b2b2a4b553c5d16cac69413c2f12925087a43124c7460fe3707b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -117,7 +117,4 @@ table_of_contents:
   label: No. 894-C 百法規矩纂釋後敘
   type: mulu
   level: 1
-hash: sha256:974b62802731d5115ad61a30e1e7122b34f6765512d93ae89c280f47ee832b11
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b521859a915b0616ed9a5f11f230629d3385c384b75dd4feb63e3471c469e2c7

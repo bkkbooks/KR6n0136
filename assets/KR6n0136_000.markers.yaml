@@ -31,7 +31,6 @@ markers:
   - {type: punctuation, offset: 37, content: 。, id: KR6n0136_X_000-bkkpn15}
   - {type: line-break, offset: 40, content: '', id: KR6n0136_X_000-0425b09, ed: X, 'n': 0425b09}
   - {type: line-break, offset: 40, content: '', id: KR6n0136_X_000-0593a03, ed: R098, 'n': 0593a03}
-  - {type: substitution, offset: 43, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0597}}
   - {type: punctuation, offset: 46, content: ，, id: KR6n0136_X_000-bkkpn16}
   - {type: punctuation, offset: 55, content: ，, id: KR6n0136_X_000-bkkpn17}
   - {type: punctuation, offset: 59, content: ，, id: KR6n0136_X_000-bkkpn18}
@@ -75,7 +74,6 @@ markers:
   - {type: line-break, offset: 168, content: '', id: KR6n0136_X_000-0425b16, ed: X, 'n': 0425b16}
   - {type: line-break, offset: 168, content: '', id: KR6n0136_X_000-0593a10, ed: R098, 'n': 0593a10}
   - {type: xml-element, offset: 168, content: '', id: pX55p0425b1601, name: p, role: open, attrs: {'xml:id': pX55p0425b1601, style: 'margin-left:2em'}}
-  - {type: substitution, offset: 169, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
   - {type: variant, offset: 171, length: 1, content: 戌, 卍續: 戍}
   - {type: xml-element, offset: 184, content: '', id: pX55p0425b1601_end, name: p, role: close, attrs: {'xml:id': pX55p0425b1601, style: 'margin-left:2em'}}
   - {type: line-break, offset: 184, content: '', id: KR6n0136_X_000-0425b17, ed: X, 'n': 0425b17}
@@ -99,4 +97,4 @@ markers:
   - {type: line-break, offset: 184, content: '', id: KR6n0136_X_000-0593b01, ed: R098, 'n': 0593b01}
   body: []
   back: []
-hash: sha256:f21e0821215a85bc1bb265d1dc2229c6dff23b15ab8e95a59d9c69e574ca40fc
+hash: sha256:8ff9f7e2adea5491a45a617a181f2122d68e3a89ab447c6c4ff9b67dd5c9c7b0
