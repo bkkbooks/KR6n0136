@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6n0136/v1
 canonical_location: https://kanripo.org/bkk/KR6n0136/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 八識規矩纂釋
   identifiers:
@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6n0136_000.yaml, hash: 'sha256:ddcec4cc50457616d1e6f742183db370137bffae54d5f6557fe2099dc77be8bb'}
-  - {seq: 1, filename: KR6n0136_001.yaml, hash: 'sha256:419a546ecba04c0a074a4fdb1ac1971aab9ab2fae3cd3f772ad862dac26bdaa8'}
+  - {seq: 0, filename: KR6n0136_000.yaml, hash: 'sha256:7014598305d7d201d20de2f6a057a244c616018dd4a4a9057cb751d1dd5d776d'}
+  - {seq: 1, filename: KR6n0136_001.yaml, hash: 'sha256:f320e7c052319b4ee04cd023228065b65fc48475bfe58dcb70f81ce16ffacd66'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6n0136_000.markers.yaml, hash: 'sha256:8ff9f7e2adea5491a45a617a181f2122d68e3a89ab447c6c4ff9b67dd5c9c7b0'}
-  - {seq: 1, role: markers, filename: assets/KR6n0136_001.markers.yaml, hash: 'sha256:92039851d517b2b2a4b553c5d16cac69413c2f12925087a43124c7460fe3707b'}
+  - {seq: 0, role: markers, filename: assets/KR6n0136_000.markers.yaml, hash: 'sha256:b65d0c7941feb23107e4913f7bdfea1fc403c99da1c86490b486dab1607b84a9'}
+  - {seq: 1, role: markers, filename: assets/KR6n0136_001.markers.yaml, hash: 'sha256:bcd86a5b9cd6055dd54b1522d01c83b03dc3f088e2e853939f590f8b99051165'}
 table_of_contents:
 - ref:
     seq: 0
@@ -117,4 +117,7 @@ table_of_contents:
   label: No. 894-C 百法規矩纂釋後敘
   type: mulu
   level: 1
-hash: sha256:b521859a915b0616ed9a5f11f230629d3385c384b75dd4feb63e3471c469e2c7
+hash: sha256:89ddd809d90310b4d5536a8344e51184de41e859df78bf63c9a7e62168c5c17d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
