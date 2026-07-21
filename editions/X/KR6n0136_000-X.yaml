@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6n0136/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 此規矩纂釋者以古解單用論文故學者難入今時有證義集解亦互有出入故學者猶難取裁今此纂以古補註為主互取二家及本論釋文融成一貫而參以直解詳略相因遞相發明但專境量以心所行相已備於百法纂中故此不重出頗省繁厭然字字有本全非己意妄竊為己見也此乃侍者廣益初入唯識法門老人教以研窮下手處使探討一過便見穩當若字字經心則見解不謬故精心參考以備遺忘非為呈之大方也天啟壬戌夏日七十七翁憨山老人手批
   hash: sha256:f04ee6b3f8ab8ac6f1bd13ed3a903cbbd4e60bfd0c77a1695a1a1536e8e3809b
   markers:
   - {type: 序, offset: 0, content: No. 894-A, id: KR6n0136_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 八識規矩纂釋
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X55/X55n0894.xml
     old_id: X55n0894
-hash: sha256:ddcec4cc50457616d1e6f742183db370137bffae54d5f6557fe2099dc77be8bb
+hash: sha256:ebd3d9385e667bf6611253fc7f8385dbed5d70e3841b5ff7a6394c825b9449fc
